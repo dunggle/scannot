@@ -12,3 +12,7 @@ Download the latest package from GitHub Releases.
 
 ```bash
 conda install /path/to/scannot-v1.0.1-0.conda
+
+or
+
+conda install dunggle::scannot
